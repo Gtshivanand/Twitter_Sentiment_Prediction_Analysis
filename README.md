@@ -90,7 +90,7 @@ The observed discrepancy between the training loss and the test loss suggests th
 
 <img src = "https://github.com/Gtshivanand/Twitter_Sentiment_Prediction_Analysis/blob/main/images/Model%20Performance.jpg"/>
 
-## # Feedback and Suggestions:
+# Feedback and Suggestions:
 
 I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
 
